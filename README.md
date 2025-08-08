@@ -2,6 +2,7 @@
 **(Novice Student Edition)**
 
 August 7, 2025 
+
 **GPT 5 was released today** --> **GPT 5 was added to the plugin.** 😁
 <!-- ACTION: Create a GIF showing the core workflow: 1. Initializing a note, 2. Adding a chat entry, 3. Ending the week and showing the analytics. Then, replace this comment with the markdown for the GIF. -->
 <!-- Example: ![Plugin Demo GIF](https://raw.githubusercontent.com/your-username/obsidian-ai-reflection-journal/main/docs/plugin-demo.gif) -->
