@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "ai-reflection-journal",
+	"name": "AI Reflection Journal",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A plugin for AI-powered Prompt/Response Journaling and Learning Reflections.",
+	"author": "Christian S Loh, Ph.D. - Vibe Coding Projects",
+	"authorUrl": "https://github.com/tenchiro",
 	"isDesktopOnly": false
 }

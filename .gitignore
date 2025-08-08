@@ -1,22 +1,22 @@
-# vscode
-.vscode 
-
-# Intellij
-*.iml
-.idea
-
-# npm
-node_modules
+# Obsidian-specific folder
+.obsidian/
 
 # Don't include the compiled main.js file in the repo.
 # They should be uploaded to GitHub releases instead.
+# Compiled JavaScript output
 main.js
 
-# Exclude sourcemaps
-*.map
+# npm, Dependencies
+node_modules/
 
-# obsidian
-data.json
+# User folders
+working_backup/
 
-# Exclude macOS Finder (System Explorer) View States
+# Mac-specific files
 .DS_Store
+
+# IDE / Editor-specific files
+.vscode/
+
+# Build artifacts directory (if you create one)
+build/
